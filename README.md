@@ -1,14 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
-<h1 align="center">
-  
-</h1>
-<p align="center">
-  
- - Third year student of M.sc Compuer Science
-</p>
-
 
 
 <h2> :hammer_and_wrench:🚀 &nbsp;Some Tools I Have Used and Learned</h2>

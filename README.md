@@ -3,7 +3,7 @@
 </p>
 
 
-<h2> :hammer_and_wrench:🚀 &nbsp;Languages and Tools I Have Used</h2>
+<h2> :hammer_and_wrench:🚀 &nbsp;Languages and Tools i've worked with</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="NeoVim" width="45" height="45" />

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Noel</h1>
-<h3 align="center">CS student at Umeå university</h3>
 
 📫 Reach me at:  
 - 📧 **noel.hedlund+fromgithub@gmail.com**  

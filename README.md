@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Noel</h1>
+<h1 align="center">Hi 👋</h1>
 
 📫 Reach me at:  
-- 📧 **noel.hedlund+fromgithub@gmail.com**  
+- 📧 **noel.hedlund+github@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/noel-hedlund/)
 
 <h3 align="left">Languages and Tools i've worked with:</h3>
